@@ -1,0 +1,19 @@
+.unique{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightpink;
+}
+
+.unique.thing {
+    font-size: 24px;
+}
+
+#rare {
+    font-size: 36px;
+    color: blue;
+}
+
+#rarethat {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
